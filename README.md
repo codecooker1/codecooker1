@@ -8,7 +8,7 @@
    -Facebook: facebook.com/codecooker
    -X: @Codecookermintz
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I like '''<myself>'''   # See the code for answer
+- ⚡ Fun fact: I really love '''<myself>'''   # See the code for answer
 
 <!---
 codecooker1/codecooker1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
