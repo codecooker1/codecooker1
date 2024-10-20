@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on Python, AI, Web Backend
 - 📫 How to reach me
-  `-E-mail: mcodecooker@gmail.com
-   -Github: github.com/codecooker1
-   -Facebook: facebook.com/codecooker
-   -X: @Codecookermintz`
+  >-E-mail: mcodecooker@gmail.com
+  >-Github: github.com/codecooker1
+  >-Facebook: facebook.com/codecooker
+  >-X: @Codecookermintz
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I really love '''<myself>'''   # See the code for answer
 
