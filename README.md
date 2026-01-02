@@ -24,10 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 ![codecooker1's Stats](https://github-readme-stats-sand-chi-87.vercel.app/api?username=codecooker1&theme=nord&show_icons=true&hide_border=true&count_private=false)
 
-
-![codecooker1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codecooker1&theme=nord&hide_border=true)
-
-
 ![codecooker1's Top Languages](https://github-readme-stats-sand-chi-87.vercel.app/api/top-langs/?username=codecooker1&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ![codecooker1's Time Coding](https://github-readme-stats.hackclub.dev/api/wakatime?username=18209&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nord)
+
+![codecooker1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=codecooker1&theme=nord&hide_border=true)
